@@ -1,0 +1,15 @@
+> [!example] Navigation 
+> [[Homepage]]
+
+## Geschichtentypen
+Die Geschichten, welche die Spielgruppe erleben können unterschiedlich lang sein. Je nach Komplexität kann eine Geschichte von einer bis hin zu mehreren Dutzend Spielesession dauern. Die Geschichten werden deshalb in drei Kategorien eingeteilt: Oneshots, Abenteuer und Kampagnen.
+Nachdem eine Geschichte abgeschlossen ist, kann die nächste Geschichte daran anknüpfen. Dabei können Spielercharaktere behalten, neue gewählt oder eigene erstellt werden. 
+
+### Oneshots
+Oneshots sind kurze Abenteuer, die nur *eine Spielsession* dauern. Die Herausforderung soll schnell klar werden und einfach verständlich sein. Oneshots ermöglichen ein Spielerlebnis, welches schnell gestartet werden kann, neue Szenen zum Erkunden bietet und wenig Druck für die Spielgruppe darstellt. Damit sind sie für *Einsteiger* bestens geeignet. Für Oneshots sollten bereits *vorhandene Charaktere* oder vorgefertigte genutzt werden, da eine Charaktererstellung zu lange dauert. 
+
+### Abenteuer
+Abenteuer sind größere Geschichte, die *mehrere Spielsession* andauern. Die Geschichtsstruktur kann dabei *komplexer* ausfallen: Intrigen und Handlungsumschläge sowie Offenbarungen und unerwartete Wendungen sind möglich. Während eines Abenteuers können die Helden sich *weiterentwickeln* und neue Nebenaufgaben sammeln. Hierfür bietet es sich an, während der ersten Spielsession eine Charaktererstellung durchzuführen, sodass Spieler ihre eigenen Charaktere ausspielen können.  
+
+### Kampagnen
+Kampagnen sind sehr große Geschichtskomplexe, welche *viele Spielsessions* andauern und mehrere Abenteuer umfasst. Während einer Kampagne herrscht ein zentraler Konflikt oder eine *übergreifendes Ziel*, welches die Spieler versuchen zu erfüllen. Dafür müssen die Spieler mehrere Abenteuer bewältigen und so ihrem Ziel immer näher zu kommen und somit ein großes Finale zu haben. Die Geschichte kann demnach auch *sehr komplex* ausfallen und ist sehr aufwendig für den Spielmeister. Solche Kampagnen sollten nur *erfahrene Spielgruppen* machen, welche sich regelmäßig treffen können. Typischerweise werden für Kampagnen spezielle Charaktere angefertigt, die eine *entscheidende Charakterentwicklung* durchmachen. Es ist auch nicht ungewöhnlich, dass Charaktere in Kampagnen dazukommen und alte Spielercharaktere sich opfern.
