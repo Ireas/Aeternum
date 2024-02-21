@@ -1,0 +1,319 @@
+Intro
+	- Intro TTRPG
+		Jeder eine vorgefertigte Rolle
+		Learning-by-doing
+		Aeternum, Name in Spielwelt relevant
+	- Feedback 
+		Zu Regeln, Charakterbogen, Setting sehr gerne gesehen
+		Content nicht balanciert, änderbar
+	
+	- Spezielles im Oneshot
+		Etwas mehr Railroading, damit alles getestet wird
+		Fokus auf Auseinandersetzungen/Kampf, weil das letztes mal holprig war
+		Rest trotzdem vertreten
+		Viele Entwicklungspunkte zum Präsentieren
+	
+	- Verteilung (3x Charakterbogen):
+		- Alpha
+		- Beta
+		- Gamma
+	- Start mit Erwachen	
+
+
+Erwachen
+	- Musik: Hintergrund
+	- Zusammenfassung: Erwachen, Gedächnisverlust, Aufbruch
+	- Beschreibung:
+		- Stiriler Raum weißer Raum, kaum mehr als 3 hohe Kapseln, in denen ihr liegt
+		- Grelles Deckenlicht sticht euch in den Augen
+		- Keiner von euch erinnert sich an wer er ist oder wo/warum ihr seid
+		- Nur Namensschild auf eurer blauen MCPU Uniform gibt Auskunft
+		- Auf der anderen Seite des Raums befindet sich eine metallische Doppeltür (verschlossen)
+	
+	- Öffnen der Metalltür:
+		- Ist verschlossen
+		- Neben der Tür befindet sich ein Lüftungsschacht
+		- (Körperkraft) Verkleidung des Lüftungsschacht abreißen
+		- Dadurch klettert ihr bis der Lüftungsschacht unter euch zusammenbricht
+		- Prallt auf dem Boden auf -1w4 LeP
+
+
+Botanisches Lager
+	- Zusammenfassung: Nützliche Pflanzen, Lockdown, 1. Kampf gegen Gärtner-Androiden
+	- Beschreibung:
+		- Ihr steht vom Boden auf und steht in einem überwuchertem Labor voller Pflanzen, Beeren und Blumen
+		- Ein dichter, moosartiger Geruch liegt in der Luft
+		- Nach eurem Aufprall ist nur das regelmäßige Schnippen einer Schere zu hören
+		- Zwischen den Pflanzen findet ihr zwei Gärtner-Androiden, die gerade die Pflanzen pflegen
+		- Einige dicke, rote Beeren haben eurer Interesse geweckt
+		- Außerdem liegen zwei Gartenscheeren auf den Kübeln und ein Rucksack daneben
+		- Aus dem Labor führt eine Glastür (gepanzert) in einen Gang mit weiteren Laboren
+		- Die Tür scheint sich über ein danebenliegendes Touchpad zu steuern
+	
+	- Findbare Gegenstände:
+		- Rotbeeren (3x, benötigt Botanikprobe)
+			Dicke rote Beeren, die süßlich-sauer schmecken
+			Regenerieren 1w4 LeP
+		- Synthetik-Fleisch (2x, lange zähe Blätter)
+			Fleischartiger Geschmack, hohe Nährwerte und liegt schwer im Magen
+			Proviant
+		- Gartenschere (2x, liegen neben den Pflanzen) 
+			Typ = Nahkampf
+			Waffenwürfel = 1w10
+			Schlagkraft = +3
+		- Rucksack (4 Slots)
+
+	- Öffnen der Ausganstür:
+		- Ist erneut verschlossen
+		- Das Touchpad zeigt an, dass Lockdown von User 'Gamma' eingeleitet wurde
+		- Lockdown kann erst in 24h aufgelöst werden
+		- Tür lässt sich nur mittels einer Master-Schlüsselkarte oder von einem Gärtner-Androiden öffnen lassen
+		- In dem Moment drehen sich die Gärtner-Androiden zur Tür
+		- Gärtner-Androiden: "Besuch des Gartens während des Lockdowns verboten. Bitte verlassen sie den Garten."
+		- Gärtner-Androiden: "Bitte umgehend den Garten verlassen. Sonst wird das Sicherheits-Personal gerufen."
+		- Gärtner-Androiden: "Schutzmaßnahme innitiert."
+		- Die beiden Gärtner-Androiden greifen an
+
+	- Kampf gegen Gärtner-Androiden:
+		- 2 Gärtner-Androiden (Robust, Langsam)
+			Nahkampfangriff Gartenschere, 1w10<3, +3
+			10 LeP(5 RS)
+			Metallhülle: Unbewaffnete Angriffe fügen dem Angreifer 1w4 Schaden zu
+			Roboterarm kann an Ausgangstür gehalten werden
+	
+	- Hacken der Ausganstür:
+		- Mithilfe des Computerchips des Roboters kann das System gehackt werden
+		- Die Tür öffnet sich mit einem leisen zischen
+			>>> 3 Entwicklungspunkte >>>
+		- Ihr geht den Gang hinunter und findet einige Labore, die alle verschlossen sind
+		- Großes ProtoLink an der Wand
+		- Nur eine Tür steht halboffen zu einem Büro
+		- Am Ende des Ganges geht eine Treppe nach unten in eine Lagerhalle
+
+
+Offenstehendes Büro	
+	- Zusammenfassung: Rätsel, Geheimversteck, Schutzausrüstung
+	- Beschreibung:
+		- Ihr kommt in unaufgeräumtes Büro
+		- An den Wänden hängen unzählige Plakaten von Filmen und Serien
+		- Nur überschattet durch ein großes Bücherregal, was scheinbar oft hin und her geschoben wurde
+		- Daneben eine Ledercouch mit Rissen und Kekskrümeln drauf
+		- Die Kekskrümel findet ihr aber auch auf dem Schreibtisch und in der Tastatur wieder
+		- Das einzige was sauber scheint ist der große Monitor
+	
+	- Ungeräumtes Zimmer
+		(Wahrnehmung) Inliner Schützer (RS 1)
+	
+	- Schreibtisch / PC
+		(Technikaffinität) Findet verschlüsselten Ordner
+		- Mastermind Rätsel für Passwort
+		- Steuert ein Bücherregal zur Seite, dahinter offner Safe
+			Zettel "Nicht wieder Überdosis"
+			Beutel (2 Slots mit Kampf++)
+			Schmerzmittel (stapelbar, 2 Portionen, regenerieren 1w10 LeP) 
+			>>> 1 Entwicklungspunkte >>>
+	
+
+Lagerhalle
+	- Zusammenfassung: Klone, Waffen
+	- Beschreibung:
+		- Etwas unsicher geht ihr durch die großen Regale und betrachtet was ihr so seht
+		- Unzählige Holz und Metallkisten sind in den Regalen aufgestellt
+		- Beschriftet mit Quantimize
+		- Dann hört ihr, wie ein Kiste kraftvoll aufgerissen wird
+		- Ihr seht 2 Menschen am anderen Ende der Lagerhalle, die eine größere Kiste durchsuchen
+		- In dem Moment schrecken sie auf, schnappen sich etwas aus der Kiste und rennen wie wilde aus Sichtweite zwischen Regalen
+		- Die Kiste steht noch offen
+	
+	- Suche
+		- Großer roter Vorhang der zur Ausstellung führt
+	
+	- Zurückgelassene Kiste:
+		- 2 Pistolen verfügbar
+		- 1 größere Waffe wurde rausgeschnappt
+	
+	- Pistole: 
+		Typ = Leicht
+		Reichweite = Mittel
+		Waffenwürfel = 2w10
+		Schlagkraft = +2
+		Magazingröße = 4
+		Nachladedauer = 2
+
+
+Ausstellung
+	- Musik: Hintergrund2
+	- Zusammenfassung: Forschungsprojekte, 2. Kampf gegen Klone, paranoiden Wissenschaftler
+	- Beschreibung:
+		- Nachdem ihr durch den Vorhang geht, kommt ihr in einer Ausstellungshalle an
+		- Sie wirkt verlassen und vergessen
+		- Wie eine kleine Messe sind mehrere Stände und Ausstellungsstücke zu sehen
+		- Nach einem Moment, wo ihr euch an das spärliche Licht gewöhnt seht ihr einen großen Ausgang, der auch als solcher beschrfitet ist
+		- Als ihr näher kommt seht ihr, wurde vor kurzer Zeit verschweißt + scheinbar zusätzlich barikadiert von außen (Kein Durchkommen)
+		- Ihr dreht euch wieder zurück und entscheidet euch die Stände etwas genauer zu betrachten
+		- Ihr geht durch einen der Gänge und betrachtet die Ausstellungen 
+			ProtoLink
+			Stände zu geklonten Tieren mit kleinen Wiesen davor 
+			Synthetische Fleischalternativen steht in Snackständen
+			Ein größerer Rundthresen wo ein Haufen Flyer noch rumliegen
+
+	- Erkunden
+		- (Wahrnehmung Hinterhalt) Falls misslungen, Spieler überrascht -Beta
+		- Drei Menschen springen von einem der Standdächer runter und greifen an
+			Sehen exakt aus wie Alpha, Beta und Gamma
+			Tragen gleiche blaue MCPU Uniform
+	
+	- Kampf gegen Klone:
+		- Eventuell überrascht wegen Hinterhalt
+		- Nach einer Weile kommt ein Wissenschaftler reingelaufen, ist geschockt und versteckt sich
+		- Alpha (Aggressiv, Übermütig)
+			Fernkampfangriff Sturmgewehr, 3w6<6, +2
+			Nahkampfangriff Faust, 1w6<6,+0
+			16 LeP (0 RS) 
+		- Beta & Gamma (Kämpfen zusammen, halten fest)
+			Nahkampfangriff Brechstange, 1w6<6, +1
+			Nahkampfangriff Faust, 1w6<6, -2
+			14 LeP (0 RS) 
+	
+	- Sturmgewehr: 
+		Typ = Mittel
+		Reichweite = Mittel
+		Waffenwürfel = 3w6
+		Schlagkraft = +2
+		Magazingröße = 6
+		Nachladedauer = 4
+		
+	- Brechstange
+		Typ = Nahkampf
+		Waffenwürfel = 1w6
+		Schlagkraft = +1
+	
+	- Paranoider Wissenschaftler
+			>>> 5 Entwicklungspunkte >>>
+		- Clemens (Kurzer Mensch, dreckigen Laborkittel, kahlköpfig)
+		- Nach Kampf ist er skeptisch, ob Spieler Klone oder echte Menschen sind
+		- Scheint sehr nervös, hat ein einfaches Test-Gerät im Labor zur Verfügung
+		- (Wesenskenntnis Lügen) Neben seiner Nervosität scheint er auch nicht ganz ehrlich zu sein
+		- Geht mit den Spielern über eine Abkürzung zurück zu den Laboren
+
+
+Labor
+	- Zusammenfassung: Fälschlicher Klon-Test, Verrat von Clemens
+	- Beschreibung:
+		- Der Wissenschaftler Clemens schließt seine Labortür auf
+		- Es ist gerodnet, aber dreckig und scheint länger nicht genutzt worden zu sein
+		- Clemens: "Es gibt einen recht einfachen Test über eure Iris"
+		- Clemens zeigt auf ein Plakat dass eine Illustation eines Raumschiffs im Weltall darstellt
+		- Clemens: "Stellt euch davor, konzentriert euch auf alle Details und sagt mir was ihr seht. Na los."
+		- Clemens: "Ich kann dann mit einem Messgerät die Irisaktivität feststellen, ich hols während ihr euch fokussiert."
+		- (Wahrnehmung) Während ihr euch konzentriert, hört ihr das vorsichtige Laden einer Schrotflinte 
+	
+	- Schrotflinte: 
+		Typ = Mittel
+		Reichweite = Kurz
+		Waffenwürfel = 1w8
+		Schlagkraft = +8
+		Magazingröße = 2
+		Nachladedauer = 4
+
+	- Clemens versucht sie zu töten
+		Schusssichere Weste (+3 RS)
+		Schlüssel für Sicherheitslabor
+		
+
+Sicherheitslabor
+	- Zusammenfassung: 	Forschungsbericht
+	- Beschreibung:
+		- Ihr betretet das Sicherheitslabor
+		- Der runde Raum wird von den vielen Kabeln und Monitoren dekoriert
+		- Erinnern an einen High-Tech Pavilion 
+		- Zentral steht drei weitere Kapsel, wie die aus denen ihr erwacht seid
+			Darin exakte Klone von euch, scheinbar immernoch in einem Hyperschlaf
+			Die Kapseln sind alle gekenntzeichnet mit X-11
+		- Ihr spürt einen Schauer durch euren Körper fließen
+		- Sie ist angeschlossen an einen Hauptcomputer
+		- Hauptcomputer ist außerdem an eine kleine Glaskammer angeschlossen, die daneben auf einer Kiste liegt
+
+	- ProtoLink-Hauptcomputer hat drei Anwendungen
+		- Forschungsberichte
+		- Druckkammer-Kontrolle
+		- Klonkapsel-Kontrolle (Programm erwartet Input, können versuchen Klonkapsel zu öffnen)
+			Öffnen der Kapseln könnte gefährlich sein
+			Verängstigte Klone, wollen wieder zurück in ihrem Schlaf, Selbstmord?
+
+	- Forschungsbericht:
+		- Liste mit Klonversuchen
+		- Ablauf beim Klonen:
+			Personen werden in Klonkapseln gestellt
+			Personen mehrere Tage/Wochen betäubt 
+			Währendessen wird vollkommender Scan durchgeführt
+			Weitere Klonkapsel kann Struktur langsam synthetisieren
+		- Nebeneffkte in Ursprungswesen und Klon:
+			Körperlicher Zerfall 
+			Kontroll- und Gedächnisverlust
+			Psychische Belastung / Identitätskrisen
+		- Viele Fehlschläge, nur 4 markiert als erfolgreich:
+		- Diese 4 sind kommentiert mit 
+			"Aussehen gut, animalisches Verhalten"
+			"Zwillingsstatus erreicht" 
+			"Zwillingsstatus erneut erreicht" 
+			"Verbesserte Fähigkeiten?"
+
+	- Druckkammer-Kontrolle
+		- Öffnet vorsichtig die Druckkammer mit Gegenständen
+	
+	- Druckkammer
+		- Kammer ist aus Schweren Metall und doppelter Verglasung hergestellt
+		- Gekennzeichnet ist sich mit Explosiv-Warnsymbolen und einer Etikette "Hochdruck"
+		- 1x Sprengladung (Für verbarikadierte Ausgangstür)
+		- 1x Vortex-Granaten 
+
+
+Finale in Ausgangsschleuse
+	- Musik: Finale
+	- Zusammenfassung: 3. Kampf gegen Klone, Ausgang
+	- Beschreibung:
+		- Ihr setzt die Sprengladung an und den Timer auf 10 Sekunden während ihr hinter dem nächsten Stand in Deckung geht
+		- Die Sprengladung explodiert //beschreibung//, dann schaut ihr nach oben
+		- Innerhalb von Sekunden nehmt ihr alles auf
+		- Die riesiege Metalltür liegt auf dem sonst geschmückten Boden
+		- Der dahinterliegende Raum ist ein feierlicher Anblick 
+		- Überall liegen alte Banner, die ihr gerade mit der Explosion wegkatapultiert habt
+		- Luftballons-Girlanden die schon seit langem platt sind hängen an den Wänden und Decken
+		- Große Lautsprecherboxen stehen seit langem Bereit, ein Publikum zu begrüßen
+		- Sogar eine gut bestückte Bar steht halboffen im Raum
+		- Das ganze wird nur von einem großen Fenster überschattet worin ihr die Leere des Alls seht
+		- Ihr wart die ganze Zeit auf einer Raumstation...
+		- Daneben die große Luft-Schleuse, wovor euresgleichen steht
+		- Klon-Beta: "Ihr habt keinen Platz mehr in dieser Welt, es tut uns leid"
+
+	- Endkampf gegen verbesserte Klone
+		- Klon-Alpha (Taktisch, Koordiniert, sucht Schwachstellen)
+			Nahkampfangriff Faust, 1w6<6, +2
+			24 LeP (0 RS) 
+			Flaschenwurf: 1w12<6, -1
+			Schwachstellen: 1w20<16, Alle anderen Angriffe erleichtert, +2 SP
+			Formation: Verteidigungshaltung für alle
+		- Klon-Beta (Aggressiv, versucht Helden zu spielen, Spieler entwaffnen)
+			Nahkampfangriff Faust, 1w6<6, -2
+			20 LeP (0 RS) 
+			Entwaffnen: 1w20<12 nimmt Waffe weg und wirft sie zu Klon-Gamma
+		- Klon-Gamma (Wartet auf Waffe von Beta, versteckt sich und lenkt ab)
+			Nahkampfangriff Faust, 1w6<6, -2
+			16 LeP (0 RS) 
+			Fernkampfangriff (geklaut) Pistole, 2w10<6, +2, (4/2)		
+
+	- Nach Kampfende:
+		- Neben der Schleuse ertönt das Kommunikationssystem
+		- Eine freundliche Stimme (Captain Nika) ruft nach euch 
+		- (russischer Akzent) "Komrads, seit ihr noch da? Scheiße was war das für eien Explosion?"
+		- "Ahh eure Stimmen beruhigen mich, ich fürchtete eure Verfolger hätten euch"
+		- "Die schöne Dunja ist angedockt. Vergesst nicht den Whiskey, den ihr mir versprochen habt! Und raus da"
+		- "Wie war dein Name?"
+		- "Blyat, du meintest doch Redburry Whiskey. Was soll das?" 
+		- "Setzt euch, die Dunja bringt euch hier erstmal weg"
+		- Ihr nehmt Platz und werdet sofort in euren Sitz gedrückt während ihr mit hoher Geschwindigkeit die ProtoLink-Station verlasst
+		- Viele Fragen gehen euch dabei durch den Kopf
+			Seid ihr echte Menschen? Oder nur Klone?
+			Wie heißt ihr wirklich? Wer seid ihr überhaupt?
+			Und was macht ihr mit eurer Freiheit nun? 

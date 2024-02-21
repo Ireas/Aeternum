@@ -1,0 +1,48 @@
+=== SYSTEM LOG ==========
+> Bitte Passwort eingeben
+SYS AWAIT STRING [CORRECT CHARACTER/CORRECT CHARACTER AND POSITION]
+
+
+> _ _ _ _ _
+> Passwort darf nicht leer sein!
+SYS ERROR EMPTY STRING
+
+
+> O P E N _
+> Passwort hat falsche länge!
+SYS ERROR WRONG LENGTH
+
+
+> M E N S A
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [1/1]
+
+
+> L I N S E
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [0/2]
+
+
+> S N A C K
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [2/0]
+
+
+> T R A B I
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [0/0]
+
+
+> K E C K W
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [1/2]
+
+
+> K A C K E
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [1/2]
+
+
+> S P A C K
+> Passwort falsch! 
+SYS ERROR WRONG PASSWORD [2/0]
