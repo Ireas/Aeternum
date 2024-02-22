@@ -4,14 +4,7 @@ tags:
 > [!example] Navigation 
 >  [[Homepage]]
   
-Zusammenfassung aller zukünftiger Ideen für Spielregeln, Spielelementen und neuen Content
-
-## Aktuelles Ziel
-- GitHub Sync
-- Non-Aeternum Vault
-
-
-## Spielregeln Regeln
+## Spielregeln
 
 ### Grundregeln
 - Charaktererstellung:
@@ -118,3 +111,6 @@ Physische Ordnung:
 	- Bruderschaft des Glaubes
 	- Handelsförderation
 	- Paragon
+
+- Material
+	- Hyperium

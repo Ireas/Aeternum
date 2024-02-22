@@ -1,0 +1,13 @@
+Sybole:
+Circle: 15px
+Major Lines: 10px
+Shadow: 10px (Halved, on Line)
+
+Banner:
+Text: 6pt, 50% Baselineskip
+
+
+
+
+Herkunft:
+Symbol: 50% Size, Oben links, 1 px Abstand zu Rand
