@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7d515d6bd49d40",
+        "id": "42faa7ccf2618fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "9f76c4036a600d9b",
+            "id": "0be1563d1eb4e3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Geschichten/Lunarisentdeckung.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "d881099d334b7256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGES.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "CHANGES.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "CHANGES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "CHANGES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,20 +207,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "homepage:Open homepage": false
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "9f76c4036a600d9b",
+  "active": "d881099d334b7256",
   "lastOpenFiles": [
     "Homepage.md",
+    "CHANGES.md",
+    "Geschichten/Lunarisentdeckung.md",
     "Zusätze/Contentinformationen.md",
     "Zusätze/Tagideen.md",
     "Universum/Personen/Rotlicht Ronny.md",
-    "Geschichten/Lunarisentdeckung.md",
     "Zusätze/Zukünftige Ideen.md",
     "Regelwerk/Gegenstände/Kleidungen/Abendkleidung.md",
-    "Untitled.md",
     "Regelwerk/Grundregeln/Jugend.md",
     "Regelwerk/Grundregeln/Hobby.md",
     "Regelwerk/Grundregeln/Beruf.md",
