@@ -32,8 +32,6 @@ tags:
 	- In Gefahrensituationen kann Zugreihenfolge wie im Kampf angewendet werden
 	- Siehe BG3 turn-based-mode
 
-- Off-time gamplay (Zwischen sessions Fortschritt machen)
-
 - Kampfregeln
 	- Flankieren
 	- High Ground

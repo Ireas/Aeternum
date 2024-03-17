@@ -10,19 +10,6 @@ Intiative -> "Cinematic Initiative"
  - Intiative soll dabei an einen Aktionfilm erinnern, wobei die Kameraführung immer der Handlung folgt
  - Dynamische Geschichte, Keine Rolls/Ini-Wert, Flexibel
 
-Kampfaktionen
-- Aktion
-- Bonusaktion
-- KEINE Reaktion mehr
-
-Akimbo:
-- Angriffe mit beiden Waffen pro Aktion, dafür jedoch mit 1w6 oder 1w8 statt 1w20
-- Nur für Profis, sonst sehr schwer/Unmöglich
-
 
 ## Inventar
 Handy -> Cringe. Apps lieber wie tags zum Ankreuzen oder List mit virtuellen Funktionen? Oder open-end wie 
-Fahrrad -> Auch Cringe lol. Aber Kategorien ganz gut. Hier nur etwas ändern. Vielleicht wie Passivtalente? Passivinhalte? Probenlikestuff maybe not
-
-
-Ausrüstbare Gegenstände + Dinge wie Tags ganz gut?
