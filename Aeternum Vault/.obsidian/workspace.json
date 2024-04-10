@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b41ba877aef25706",
+        "id": "3a18301f1a980eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "cc49db7540a36b10",
+            "id": "0440560ebba1e07b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -156,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,21 +189,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc49db7540a36b10",
+  "active": "0440560ebba1e07b",
   "lastOpenFiles": [
-    "Story/06. Konflikt.md",
+    "Story/test.md",
+    "Excalidraw/test.excalidraw.md",
     "Story/Ideen.md",
+    "Story/01. Druidenhütte.md",
+    "Story/0X. Eden.md",
+    "Excalidraw/eden-konflikt.excalidraw.md",
+    "Excalidraw/die_reise.excalidraw.md",
+    "Excalidraw/das_erwachen.excalidraw.md",
+    "Homepage.md",
+    "Story/06. Konflikt.md",
     "Story/05. Solarim.md",
     "Story/04. Rücktrip.md",
     "Story/03. Lufttempel.md",
     "Story/02. Reise zum Lufttempel.md",
-    "Story/01. Druidenhütte.md",
-    "Story/0X. Eden.md",
-    "Excalidraw/das_erwachen.excalidraw.md",
-    "Homepage.md",
     "Excalidraw/solarim-kieslinge.excalidraw.md",
     "Attachments/Story/Kiesling.png",
-    "Excalidraw/eden-konflikt.excalidraw.md",
     "Excalidraw/solarim-erfinder.excalidraw.md",
     "Excalidraw/eden-minas_krieger.excalidraw.md",
     "Excalidraw/eden-home.excalidraw.md",
@@ -219,7 +214,6 @@
     "eden-minas_krieger.excalidraw.md",
     "Excalidraw/solarim-ankunft.excalidraw.md",
     "Excalidraw/der_lufttempel.excalidraw.md",
-    "Excalidraw/die_reise.excalidraw.md",
     "Excalidraw/der_hainjäger.excalidraw.md",
     "Excalidraw/die_späher.excalidraw.md",
     "Attachments/Story/das_auge.png",
@@ -233,9 +227,7 @@
     "Attachments/Story/Wald.png",
     "Geschichten/Lunarisentdeckung.md",
     "Excalidraw/Drawing 2024-03-25 18.13.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-25 18.11.16.excalidraw.md",
     "Excalidraw",
-    "CHANGES.md",
     "Regelwerk/Eigentumskategorien",
     "Story",
     "Universum/Personen",
