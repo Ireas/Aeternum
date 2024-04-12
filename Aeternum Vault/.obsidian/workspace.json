@@ -11,11 +11,37 @@
             "id": "0440560ebba1e07b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/kampftest2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f770ec7ccf2f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/kampftest1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "cd6c0d1889122082",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/kampftest2.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,6 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -150,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +218,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0440560ebba1e07b",
+  "active": "cd6c0d1889122082",
   "lastOpenFiles": [
-    "Story/test.md",
-    "Excalidraw/test.excalidraw.md",
+    "Excalidraw/kampftest1.excalidraw.md",
+    "Excalidraw/kampftest2.excalidraw.md",
+    "Story/kampftest2.md",
+    "Story/kampftest1.md",
+    "Excalidraw/solarim-ankunft.excalidraw.md",
     "Story/Ideen.md",
+    "Story/03. Lufttempel.md",
     "Story/01. Druidenhütte.md",
+    "Attachments/Story/Druidenhaus.png",
+    "Excalidraw/solarim-kieslinge.excalidraw.md",
     "Story/0X. Eden.md",
     "Excalidraw/eden-konflikt.excalidraw.md",
     "Excalidraw/die_reise.excalidraw.md",
@@ -203,16 +238,13 @@
     "Story/06. Konflikt.md",
     "Story/05. Solarim.md",
     "Story/04. Rücktrip.md",
-    "Story/03. Lufttempel.md",
     "Story/02. Reise zum Lufttempel.md",
-    "Excalidraw/solarim-kieslinge.excalidraw.md",
     "Attachments/Story/Kiesling.png",
     "Excalidraw/solarim-erfinder.excalidraw.md",
     "Excalidraw/eden-minas_krieger.excalidraw.md",
     "Excalidraw/eden-home.excalidraw.md",
     "eden-home.excalidraw.md",
     "eden-minas_krieger.excalidraw.md",
-    "Excalidraw/solarim-ankunft.excalidraw.md",
     "Excalidraw/der_lufttempel.excalidraw.md",
     "Excalidraw/der_hainjäger.excalidraw.md",
     "Excalidraw/die_späher.excalidraw.md",
@@ -224,9 +256,6 @@
     "Attachments/Story/Lufttempel 1.png",
     "Attachments/Story/Hainjäger.png",
     "Attachments/Story/nesselbrand.png",
-    "Attachments/Story/Wald.png",
-    "Geschichten/Lunarisentdeckung.md",
-    "Excalidraw/Drawing 2024-03-25 18.13.40.excalidraw.md",
     "Excalidraw",
     "Regelwerk/Eigentumskategorien",
     "Story",
