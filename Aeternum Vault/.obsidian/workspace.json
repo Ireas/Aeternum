@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7d515d6bd49d40",
+        "id": "3a18301f1a980eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9f76c4036a600d9b",
+            "id": "0440560ebba1e07b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Story/kampftest2.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "2f770ec7ccf2f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/kampftest1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "cd6c0d1889122082",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/kampftest2.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -118,7 +139,7 @@
                   "repelStrength": 14.2708333333333,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13051064060238704,
+                  "scale": 0.02409530271205958,
                   "close": true
                 }
               }
@@ -156,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Excalidraw/kampftest2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,57 +215,57 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f76c4036a600d9b",
+  "active": "cd6c0d1889122082",
   "lastOpenFiles": [
+    "Excalidraw/kampftest1.excalidraw.md",
+    "Excalidraw/kampftest2.excalidraw.md",
+    "Story/kampftest2.md",
+    "Story/kampftest1.md",
+    "Excalidraw/solarim-ankunft.excalidraw.md",
+    "Story/Ideen.md",
+    "Story/03. Lufttempel.md",
+    "Story/01. Druidenhütte.md",
+    "Attachments/Story/Druidenhaus.png",
+    "Excalidraw/solarim-kieslinge.excalidraw.md",
+    "Story/0X. Eden.md",
+    "Excalidraw/eden-konflikt.excalidraw.md",
+    "Excalidraw/die_reise.excalidraw.md",
+    "Excalidraw/das_erwachen.excalidraw.md",
     "Homepage.md",
-    "Zusätze/Contentinformationen.md",
-    "Zusätze/Tagideen.md",
-    "Universum/Personen/Rotlicht Ronny.md",
-    "Geschichten/Lunarisentdeckung.md",
-    "Zusätze/Zukünftige Ideen.md",
-    "Regelwerk/Gegenstände/Kleidungen/Abendkleidung.md",
-    "Untitled.md",
-    "Regelwerk/Grundregeln/Jugend.md",
-    "Regelwerk/Grundregeln/Hobby.md",
-    "Regelwerk/Grundregeln/Beruf.md",
-    "Regelwerk/Grundregeln/Vorgeschichte.md",
-    "Regelwerk/Grundregeln/Kindheit.md",
-    "Regelwerk/Grundregeln/Altersklasse.md",
-    "Regelwerk/Grundregeln/Herkunft.md",
-    "Regelwerk/Grundregeln/Spezies.md",
-    "Regelwerk/Grundregeln/Charaktererstellung.md",
-    "Regelwerk/Grundregeln/Talent.md",
-    "Regelwerk/Talente/Konzentrieren.md",
-    "Regelwerk/Grundregeln/Gegenstände.md",
-    "Regelwerk/Grundregeln/Verbrauchsgegenstand.md",
-    "Regelwerk/Grundregeln/Kleidung.md",
-    "Regelwerk/Gegenstände/Kleidungen/Sportkleidung.md",
-    "Regelwerk/Gegenstände/Kleidungen/Alltagskleidung.md",
-    "Regelwerk/Gegenstände/Verbrauchsgegenstände/Nachtkerze.md",
-    "Regelwerk/Gegenstände/Verbrauchsgegenstände/Brenngaskanister.md",
+    "Story/06. Konflikt.md",
+    "Story/05. Solarim.md",
+    "Story/04. Rücktrip.md",
+    "Story/02. Reise zum Lufttempel.md",
+    "Attachments/Story/Kiesling.png",
+    "Excalidraw/solarim-erfinder.excalidraw.md",
+    "Excalidraw/eden-minas_krieger.excalidraw.md",
+    "Excalidraw/eden-home.excalidraw.md",
+    "eden-home.excalidraw.md",
+    "eden-minas_krieger.excalidraw.md",
+    "Excalidraw/der_lufttempel.excalidraw.md",
+    "Excalidraw/der_hainjäger.excalidraw.md",
+    "Excalidraw/die_späher.excalidraw.md",
+    "Attachments/Story/das_auge.png",
+    "Attachments/Story/Faekreis.png",
+    "Attachments/Story/der_erfinder.png",
+    "Attachments/Story/Solarim.png",
+    "Attachments/Story/Lufttempel.png",
+    "Attachments/Story/Lufttempel 1.png",
+    "Attachments/Story/Hainjäger.png",
+    "Attachments/Story/nesselbrand.png",
+    "Excalidraw",
     "Regelwerk/Eigentumskategorien",
-    "Geschichten",
-    "Attachments/Banner/raumstation.png",
-    "Attachments/Banner/elysium.png",
-    "Attachments/Banner/var_arena.png",
-    "Attachments/Banner/schmelzhütte.png",
-    "Attachments/Personenbilder/chefkoch_moe.png",
-    "Attachments/Personenbilder/2024-02-06_10-06-26_2396.png",
-    "Attachments/Personenbilder/rotlicht_ronny.png",
-    "Attachments/Personenbilder/rotlicht_ronny 1.png",
+    "Story",
     "Universum/Personen",
-    "Attachments/Personenbilder/renault_steiner.png",
     "Attachments/Personenbilder",
     "Zusätze",
     "Regelwerk/Sondereffekte/Nachteile",
-    "Attachments/Banner/automata.png",
     "Regelwerk/Gegenstände/Apps",
     "Regelwerk/Waffentechniken",
     "Material",
-    "Regelwerk/Sondereffekte/Spezieseffekte",
     "Untitled.canvas"
   ]
 }
