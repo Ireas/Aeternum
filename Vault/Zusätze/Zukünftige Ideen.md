@@ -13,7 +13,12 @@ tags:
 	- Lektionen sind momentan alle +1 Bonuswürfel (Ändern oder auf Charakterbogen eintragen). Wenn immer, dann gehen auch doppelte Lektionen für 2 Bonuswürfel
 	- Text über Personen statt Charaktere
 	- Hobby etwas weniger Punkte? Oder Preise anpassen pro Talentpunkt?
-	- charaktererstellungsbogen nicht notwendig?
+	- charaktererstellungsbogen nicht notwendig!
+	- Schicksal: Spieler die ihrem Schicksal folgen sind gestärkt (gibt kraft)
+	- Gruppenseelenbindung => Verbindung aller Spieler, eventueller Bionus,
+		- Gemeinsames Ziel
+		- Ein wunsch
+		- >Fewind
 - Jeder hat ein Zuhause während der Charaktererestellugn
 	- Verschiedene Varianten
 	- Inklusive Familienstand
@@ -41,12 +46,23 @@ tags:
 	- Akimbo
 
 
+- Spielercharaktertod: Kartenziehen
+	- Kartenzug entscheided, ob Spieler überleben, Hölle, Himmel,...
+	- Spieler entscheidet: 
+		- > Tod, aber rausgehen mit bang (letzte Kraft)
+		- > Überleben, aber mit permanenten Folgen
+
+
+- Skelletepatisch
+
 ### Sektionen
 - [[Augmentation]]
 - [[Psionik]]
 	- Nicht festgelegte Zauber
 	- Stattdessen Schulen, Spieler können selbst Zauber erfinden und wirken
 	- Schwere je nach Zauber der genutzt wird
+	- Dice Target = Kosten des Spells?
+	- Conditions für Elements (Dmg, slow, stun, verführen,...)
 - [[Göttlichkeiten]]
 - Schiffsspiel
 
