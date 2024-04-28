@@ -6,7 +6,13 @@ tags:
   
 ## Spielregeln
 
-### Grundregeln
+#### Spieler:
+- Julius
+- Luise
+- Vicky + Freund
+- Nils?
+
+#### Grundregeln
 - Charaktererstellung:
 	- Talente ausbessern
 	- Passivfertigkeiten werden Modifer für Proben (Also)
@@ -25,7 +31,7 @@ tags:
 	- Vorteile/Ortschaft
 	- Lagerstätte
 	- Erweiterbar auf Fahrzeuge, Haustiere und anderen Eigentum (Ressource zum Verteilen während der Charaktererstellung?)
-- Passivfertigkeit: Spiritualität oder sowas für passive Wahrnehmung von Kosmischer Energie??
+
 - Kategorien der Berufe ums leichter zu finden?
 - Vergleichsprobe / Gruppenprobe
 - Begleitwesen
@@ -53,9 +59,9 @@ tags:
 		- > Überleben, aber mit permanenten Folgen
 
 
-- Skelletepatisch
+- Skelletepatie
 
-### Sektionen
+#### Sektionen
 - [[Augmentation]]
 - [[Psionik]]
 	- Nicht festgelegte Zauber
@@ -63,16 +69,15 @@ tags:
 	- Schwere je nach Zauber der genutzt wird
 	- Dice Target = Kosten des Spells?
 	- Conditions für Elements (Dmg, slow, stun, verführen,...)
-- [[Göttlichkeiten]]
 - Schiffsspiel
 
-### Modulregeln
+## Modulregeln
 - Ausdauer/Adrenalin Regel: Nach Kampf regenerieren einfach gestrichene Herzen sofort wieder
 	- Deutlich mutigere Kämpfe zu erwarten, kann Geschwindigkeit erhöhen
 	- Eventuell als Kampfstil
 - Prügeleien (Nicht-tödlicher, unbewaffneter Nahkampf)
 
-### Alternativregeln
+#### Alternativregeln
 - Taktischer Kampf
 	- Party-Initiative: Parteien sind gemeinsam dran, können sich absprechen und gleichzeitig handeln
 	- Kämpfe werden verlangsamt und etwas unausgeglichener. Taktiken können besser ausgenutzt werden

@@ -11,34 +11,16 @@
             "id": "0440560ebba1e07b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/06.2 - Dungeon.md"
-              }
-            }
-          },
-          {
-            "id": "4988922dd342c265",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/07.1 - Konflikt.md"
-              }
-            }
-          },
-          {
-            "id": "49b9daa9ceffdf9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/06.1 - Dungeon.md"
+                "file": "printformat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/07.1 - Konflikt.md",
+                "file": "printformat.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -174,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/07.1 - Konflikt.md",
+                "file": "printformat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/07.1 - Konflikt.md",
+                "file": "printformat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,54 +197,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4988922dd342c265",
+  "active": "0440560ebba1e07b",
   "lastOpenFiles": [
-    "Excalidraw/06.3 - Dungeon.md",
+    "7.3.pdf",
+    "Excalidraw/07.1 - Konflikt.md",
+    "Excalidraw/06.5 - Dungeon.md",
+    "printformat.md",
+    "6.5.pdf",
+    "6.4.pdf",
+    "printformat.pdf",
+    "06.3.pdf",
+    "Excalidraw/02 - Spähertrupp.md",
+    "Excalidraw/00 - Intro.excalidraw.md",
+    "Attachments/vitalität.png",
     "Excalidraw/06.1 - Dungeon.md",
     "Excalidraw/06.2 - Dungeon.md",
-    "Excalidraw/05.2 - Eden.md",
+    "Excalidraw/06.3 - Dungeon.md",
     "Excalidraw/06.4 - Dungeon.md",
-    "Excalidraw/06.5 - Dungeon.md",
+    "6.2.pdf",
+    "6.1.pdf",
+    "05.2.pdf",
+    "05.1.pdf",
+    "03.1.pdf",
+    "03.2.pdf",
+    "Attachments/Story/Hainjäger.png",
+    "Attachments/Story/Information.png",
+    "Attachments/Story/Kiesling.png",
+    "Attachments/Story/Lufttempel.png",
+    "Attachments/Story/Solarim.png",
+    "Attachments/Story/Wald.png",
+    "Attachments/Story/wasserelefant.png",
+    "Homepage.md",
+    "Zusätze/Zukünftige Ideen.md",
+    "Attachments/Story/deep entrance.png",
+    "Göttlichkeiten.md",
+    "Zusätze/Danksagung.md",
+    "Excalidraw/01.2 - Kampftest.excalidraw.md",
+    "Excalidraw/01.1 - Kampftest.excalidraw.md",
+    "Excalidraw/05.2 - Eden.md",
     "Attachments/Story/Baseelements.png",
-    "Attachments/Story/Elementaltafel.png",
-    "Excalidraw/07.1 - Konflikt.md",
-    "Excalidraw/00 - Intro.excalidraw.md",
     "Excalidraw/05.1 - Eden.md",
     "Excalidraw/03.2 - Solarim.md",
     "Excalidraw/03.1 - Solarim.md",
-    "Excalidraw/02 - Spähertrupp.md",
-    "Excalidraw/01.2 - Kampftest.excalidraw.md",
-    "Excalidraw/01.1 - Kampftest.excalidraw.md",
-    "Zusätze/Zukünftige Ideen.md",
-    "Attachments/Story/auge.png",
-    "Attachments/Story/das_auge.png",
-    "Homepage.md",
     "Excalidraw/eden-minas_krieger.excalidraw.md",
     "Excalidraw/solarim-kieslinge.excalidraw.md",
     "Excalidraw/solarim-erfinder.excalidraw.md",
     "Excalidraw/eden-konflikt.excalidraw.md",
     "Excalidraw/solarim-ankunft.excalidraw.md",
     "Excalidraw/die_späher.excalidraw.md",
-    "Excalidraw/eden-home.excalidraw.md",
-    "printformat.md",
-    "Regelwerk/Grundregeln/Modulregeln.md",
-    "Regelwerk/Modulregeln/Rollenhaftes Verkörpern.md",
-    "Attachments/Story/Wald.png",
-    "Attachments/Story/wasserelefant.png",
-    "Attachments/Story/Solarim.png",
-    "Attachments/Story/Lufttempel.png",
-    "Attachments/Story/Kiesling.png",
-    "Attachments/Story/Hainjäger.png",
-    "Excalidraw",
-    "Regelwerk/Eigentumskategorien",
-    "Story",
-    "Universum/Personen",
-    "Attachments/Personenbilder",
-    "Zusätze",
-    "Regelwerk/Sondereffekte/Nachteile",
-    "Regelwerk/Gegenstände/Apps",
-    "Regelwerk/Waffentechniken",
-    "Material",
     "Untitled.canvas"
   ]
 }

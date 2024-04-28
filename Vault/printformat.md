@@ -1,4 +1,4 @@
-![[Information.png|730]]
+![[Wald.png|730]]
 
-![[00 - Intro.excalidraw|730]]
+![[07.1 - Konflikt|730]]
 
