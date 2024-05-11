@@ -17,7 +17,7 @@ Die menschliche Spezies ist von Natur aus vielfältig, geprägt durch ihren unb�
 	- [[Geschick]] +5
 	- [[Intelligenz]] +5
 - Grundwerte:
-	- [[Lebenspunkte]] +10
+	- [[Vitalität]] +10
 - Spezieseffekt:
 	- [[Menschliche Diversität]]
 

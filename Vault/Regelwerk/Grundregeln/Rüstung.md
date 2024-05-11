@@ -1,7 +1,7 @@
 ---
 tags: Grundregel
 ---
-Wenn die [[Lebenspunkte|Lebenspunkte]] eines Charakters durch physischen Schaden reduziert wird, kann eine Rüstung helfen. Sie reduziert den Schaden. 
+Wenn die [[Vitalität|Vitalität]] eines Charakters durch physischen Schaden reduziert wird, kann eine Rüstung helfen. Sie reduziert den Schaden. 
 
 
 ## Rüstungsstufe

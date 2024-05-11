@@ -8,4 +8,4 @@ In vielen Therapien haben sich diese duftenden Kerzen durchgesetzt, die Nachts a
 
 #### Verbrauchsgegenstand
 - Kosten: 20 Credits
-- Nachtkerzen können angezündet werden, um einen beruhigenden Duft zu erzeugen. Personen, die eine [[Ruhephase]] in dem Duft haben, regenerieren +1w4 [[Lebenspunkte|Lebenspunkte]].
+- Nachtkerzen können angezündet werden, um einen beruhigenden Duft zu erzeugen. Personen, die eine [[Ruhephase]] in dem Duft haben, regenerieren +1w4 [[Vitalität|Vitalität]].

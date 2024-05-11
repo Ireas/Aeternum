@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a18301f1a980eb4",
+        "id": "9c105369919d8d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "0440560ebba1e07b",
+            "id": "fc476009d0effc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "printformat.md",
+                "file": "Regelwerk/Grundregeln/Vitalität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "printformat.md",
+                "file": "Regelwerk/Grundregeln/Vitalität.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "printformat.md",
+                "file": "Regelwerk/Grundregeln/Vitalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "printformat.md",
+                "file": "Regelwerk/Grundregeln/Vitalität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +197,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0440560ebba1e07b",
+  "active": "fc476009d0effc1e",
   "lastOpenFiles": [
+    "Regelwerk/Grundregeln/Verbrauchsgegenstand.md",
+    "Regelwerk/Grundregeln/Charaktererstellung.md",
+    "Regelwerk/Grundregeln/Apps.md",
+    "Regelwerk/Grundregeln/Altersklasse.md",
+    "Regelwerk/Grundregeln/Hobby.md",
+    "Regelwerk/Grundregeln/Waffe.md",
+    "Regelwerk/Grundregeln/Werkzeug.md",
+    "Regelwerk/Grundregeln/Psionik.md",
+    "Regelwerk/Grundregeln/Vitalität.md",
+    "Regelwerk/Grundregeln/Grundregeln.md",
+    "vitalität.png.md",
+    "Homepage.md",
+    "printformat.md",
     "7.3.pdf",
     "Excalidraw/07.1 - Konflikt.md",
     "Excalidraw/06.5 - Dungeon.md",
-    "printformat.md",
     "6.5.pdf",
     "6.4.pdf",
     "printformat.pdf",
@@ -219,7 +231,6 @@
     "05.2.pdf",
     "05.1.pdf",
     "03.1.pdf",
-    "03.2.pdf",
     "Attachments/Story/Hainjäger.png",
     "Attachments/Story/Information.png",
     "Attachments/Story/Kiesling.png",
@@ -227,24 +238,13 @@
     "Attachments/Story/Solarim.png",
     "Attachments/Story/Wald.png",
     "Attachments/Story/wasserelefant.png",
-    "Homepage.md",
     "Zusätze/Zukünftige Ideen.md",
     "Attachments/Story/deep entrance.png",
     "Göttlichkeiten.md",
     "Zusätze/Danksagung.md",
     "Excalidraw/01.2 - Kampftest.excalidraw.md",
     "Excalidraw/01.1 - Kampftest.excalidraw.md",
-    "Excalidraw/05.2 - Eden.md",
     "Attachments/Story/Baseelements.png",
-    "Excalidraw/05.1 - Eden.md",
-    "Excalidraw/03.2 - Solarim.md",
-    "Excalidraw/03.1 - Solarim.md",
-    "Excalidraw/eden-minas_krieger.excalidraw.md",
-    "Excalidraw/solarim-kieslinge.excalidraw.md",
-    "Excalidraw/solarim-erfinder.excalidraw.md",
-    "Excalidraw/eden-konflikt.excalidraw.md",
-    "Excalidraw/solarim-ankunft.excalidraw.md",
-    "Excalidraw/die_späher.excalidraw.md",
     "Untitled.canvas"
   ]
 }

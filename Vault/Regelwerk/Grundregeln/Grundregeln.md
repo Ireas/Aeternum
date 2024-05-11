@@ -1,4 +1,7 @@
 ---
+banner: "![[start.png]]"
+---
+---
 tags: Grundregel
 banner: "![[start.png]]"
 banner_y: 0.50334
@@ -46,7 +49,7 @@ Jeder Spielercharakter wird durch seine Fähigkeiten ausgezeichnet. Die Grundlag
 
 Für den Kampf haben Spielercharaktere eine [[Kampfvertrautheit]] und [[Waffentechnik|Waffentechniken]], welche die Fähigkeiten und Übung im Kampf bestimmen. 
 
-Außerdem sind in Gefahrensituationen auch die [[Lebenspunkte]] der Charaktere von höchster Relevanz. Sobald ein Charakter all seine Lebenspunkte verlieren sollte, stirbt der Charakter. Ob Spielercharaktere sterben dürfen, sollte vorher mit den Spieler abgesprochen werden, um Frustration zu vermeiden.
+Außerdem sind in Gefahrensituationen auch die [[Vitalität]] der Charaktere von höchster Relevanz. Sobald ein Charakter all seine Lebenspunkte verlieren sollte, stirbt der Charakter. Ob Spielercharaktere sterben dürfen, sollte vorher mit den Spieler abgesprochen werden, um Frustration zu vermeiden.
 
 Darüber hinaus kann jeder Spielercharakter auch eine Auswahl an [[Sondereffekte]] erlernen. Diese bieten einzigartige Vorteile oder Nachteile, erleichtern das Einsetzen bestimmter Talente oder ermöglichen spezielle Kampfstile.
 

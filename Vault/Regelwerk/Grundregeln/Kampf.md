@@ -62,7 +62,7 @@ All solche Änderungen sollten für die Spieler *begründet* sein und immer nur 
 
 
 ## Leben und Schaden
-Insbesondere in Gefahrensituationen sind die [[Lebenspunkte|Lebenspunkte]] der Charaktere gefährdet. Besonders Kämpfe sind schnell und gefährlich. Jedes mal, wenn ein Charakter *Schaden* erleidet, verliert dieser *Lebenspunkte*. 
+Insbesondere in Gefahrensituationen sind die [[Vitalität|Vitalität]] der Charaktere gefährdet. Besonders Kämpfe sind schnell und gefährlich. Jedes mal, wenn ein Charakter *Schaden* erleidet, verliert dieser *Lebenspunkte*. 
 Wenn ein Spielercharakter zu viele Lebenspunkte verliert, wird dieser bewusstlos und kann gar sterben. 
 Um sich zu schützen, sollten sich die Spieler eine Kampfrüstung holen, welche ihnen [[Rüstung]] zur Verfügung stellt.
 
