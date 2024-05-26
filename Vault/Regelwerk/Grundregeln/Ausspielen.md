@@ -2,7 +2,7 @@
 tags: Grundregel
 ---
 > [!example] Navigation 
->  [[Grundregeln]]
+>  [[Regelwerk/Grundregeln/Grundregeln]]
 
 Damit Aeternum simpel und gleichzeitig flexibel sein kann, müssen auch die Regeln diese Flexibilität widerspiegeln. Natürlich kann kein einfaches Regelwerk alle Situationen und Möglichkeiten abdecken. Deshalb bietet Aeternum den Spielern die Möglichkeit, bestimmte Situationen auszuspielen. 
 

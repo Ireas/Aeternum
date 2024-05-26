@@ -2,7 +2,7 @@
 tags: Grundregel
 ---
 > [!example] Navigation 
->  [[Grundregeln]]
+>  [[Regelwerk/Grundregeln/Grundregeln]]
 
 Da die Spieler frei sind, ihre Charaktere möglichst nach Belieben in dem Universum von Aeternum auszuspielen, sind viele Regeln stark von der aktuellen Situation abhängig. Deshalb können viele Spielregeln nicht für alle Fälle konkretisiert werden. Deshalb ist es eine der tragenden Aufgaben des Spielmeisters, *angemessene Entscheidungen* zu treffen. Diese beinhalten unter anderem das Erleichtern und Erschweren von Proben, das Abschätzen von Möglichkeiten und das Erlauben oder Verbieten von gewissen Handlungen. 
 

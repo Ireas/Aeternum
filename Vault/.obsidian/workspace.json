@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3a18301f1a980eb4",
+        "id": "9c105369919d8d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "0440560ebba1e07b",
+            "id": "fc476009d0effc1e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/kampftest1.excalidraw.md"
+                "file": "Regelwerk/Grundregeln/Tugend.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/kampftest1.excalidraw.md",
+                "file": "Regelwerk/Grundregeln/Tugend.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/kampftest1.excalidraw.md",
+                "file": "Regelwerk/Grundregeln/Tugend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/kampftest1.excalidraw.md",
+                "file": "Regelwerk/Grundregeln/Tugend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,54 +197,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0440560ebba1e07b",
+  "active": "fc476009d0effc1e",
   "lastOpenFiles": [
-    "Excalidraw/intro.excalidraw.md",
-    "print_file.md",
+    "Regelwerk/Grundregeln/Talentprobe.md",
+    "Regelwerk/Grundregeln/Tugend.md",
+    "Zusätze/Contentinformationen.md",
+    "Regelwerk/Grundregeln/Passivprobe.md",
+    "Zusätze/Danksagung.md",
+    "Zusätze/Zukünftige Ideen.md",
+    "Zusätze/Meisterinformationen.md",
+    "Zusätze/Tagideen.md",
+    "Regelwerk/Passivfertigkeiten/Allgemeinwissen.md",
+    "Regelwerk/Passivfertigkeiten/Immunsystem.md",
+    "Regelwerk/Modulregeln/Xenobiologie.md",
     "Homepage.md",
+    "Regelwerk/Modulregeln/Verzögern.md",
+    "Regelwerk/Modulregeln/Rollenhaftes Verkörpern.md",
+    "Regelwerk/Modulregeln/Heldentaten.md",
+    "Regelwerk/Modulregeln/Akimbo.md",
+    "Regelwerk/Grundregeln/Werkzeug.md",
+    "Regelwerk/Grundregeln/Waffentechnik.md",
+    "Regelwerk/Grundregeln/Waffe.md",
+    "Regelwerk/Grundregeln/Vorteile.md",
+    "Regelwerk/Grundregeln/Verbrauchsgegenstand.md",
+    "Regelwerk/Grundregeln/Spezies.md",
+    "Regelwerk/Grundregeln/Talent.md",
+    "Regelwerk/Modulregeln/Psionik.md",
+    "Regelwerk/Grundregeln/Sondereffekte.md",
+    "Regelwerk/Grundregeln/Motivation.md",
+    "7.3.pdf",
+    "6.5.pdf",
+    "6.4.pdf",
+    "printformat.pdf",
+    "06.3.pdf",
+    "Attachments/vitalität.png",
+    "6.2.pdf",
+    "6.1.pdf",
+    "05.2.pdf",
+    "05.1.pdf",
+    "03.1.pdf",
+    "Attachments/Story/Hainjäger.png",
+    "Attachments/Story/Information.png",
+    "Attachments/Story/Kiesling.png",
+    "Attachments/Story/Lufttempel.png",
+    "Attachments/Story/Solarim.png",
     "Attachments/Story/Wald.png",
     "Attachments/Story/wasserelefant.png",
-    "Attachments/Story/Solarim.png",
-    "Attachments/Story/Lufttempel.png",
-    "Attachments/Story/Kiesling.png",
-    "Attachments/Story/Hainjäger.png",
-    "Attachments/Story/Faekreis.png",
-    "Attachments/Story/Druidenhaus.png",
-    "Attachments/Story/Druide.png",
-    "Attachments/Story/der_erfinder.png",
-    "Excalidraw/eden-minas_krieger.excalidraw.md",
-    "Excalidraw/eden-konflikt.excalidraw.md",
-    "Excalidraw/eden-home.excalidraw.md",
-    "Excalidraw/die_späher.excalidraw.md",
-    "Excalidraw/das_erwachen.excalidraw.md",
-    "Excalidraw/der_hainjäger.excalidraw.md",
-    "Excalidraw/der_lufttempel.excalidraw.md",
-    "Excalidraw/die_reise.excalidraw.md",
-    "Excalidraw/kampftest2.excalidraw.md",
-    "Excalidraw/solarim-ankunft.excalidraw.md",
-    "Excalidraw/solarim-kieslinge.excalidraw.md",
-    "Excalidraw/kampftest1.excalidraw.md",
-    "Zusätze/Danksagung.md",
-    "Story/0X. Eden.md",
-    "Zusätze/Tagideen.md",
-    "Zusätze/Meisterinformationen.md",
-    "Zusätze/Contentinformationen.md",
-    "Zusätze/Zukünftige Ideen.md",
-    "Universum/FTL-Antrieb.md",
-    "Universum/Orte/Automata.md",
-    "Story/06. Konflikt.md",
-    "Story/04. Rücktrip.md",
-    "Story/03. Lufttempel.md",
-    "Excalidraw",
-    "Regelwerk/Eigentumskategorien",
-    "Story",
-    "Universum/Personen",
-    "Attachments/Personenbilder",
-    "Zusätze",
-    "Regelwerk/Sondereffekte/Nachteile",
-    "Regelwerk/Gegenstände/Apps",
-    "Regelwerk/Waffentechniken",
-    "Material",
+    "Attachments/Story/deep entrance.png",
+    "Attachments/Story/Baseelements.png",
     "Untitled.canvas"
   ]
 }

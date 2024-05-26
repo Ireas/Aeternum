@@ -6,21 +6,32 @@ tags:
   
 ## Spielregeln
 
-### Grundregeln
+#### Spieler:
+- Julius
+- Luise
+- Vicky + Freund
+- Nils?
+
+#### Grundregeln
 - Charaktererstellung:
 	- Talente ausbessern
 	- Passivfertigkeiten werden Modifer für Proben (Also)
 	- Lektionen sind momentan alle +1 Bonuswürfel (Ändern oder auf Charakterbogen eintragen). Wenn immer, dann gehen auch doppelte Lektionen für 2 Bonuswürfel
 	- Text über Personen statt Charaktere
 	- Hobby etwas weniger Punkte? Oder Preise anpassen pro Talentpunkt?
-	- charaktererstellungsbogen nicht notwendig?
+	- charaktererstellungsbogen nicht notwendig!
+	- Schicksal: Spieler die ihrem Schicksal folgen sind gestärkt (gibt kraft)
+	- Gruppenseelenbindung => Verbindung aller Spieler, eventueller Bionus,
+		- Gemeinsames Ziel
+		- Ein wunsch
+		- >Fewind
 - Jeder hat ein Zuhause während der Charaktererestellugn
 	- Verschiedene Varianten
 	- Inklusive Familienstand
 	- Vorteile/Ortschaft
 	- Lagerstätte
 	- Erweiterbar auf Fahrzeuge, Haustiere und anderen Eigentum (Ressource zum Verteilen während der Charaktererstellung?)
-- Passivfertigkeit: Spiritualität oder sowas für passive Wahrnehmung von Kosmischer Energie??
+
 - Kategorien der Berufe ums leichter zu finden?
 - Vergleichsprobe / Gruppenprobe
 - Begleitwesen
@@ -41,22 +52,32 @@ tags:
 	- Akimbo
 
 
-### Sektionen
+- Spielercharaktertod: Kartenziehen
+	- Kartenzug entscheided, ob Spieler überleben, Hölle, Himmel,...
+	- Spieler entscheidet: 
+		- > Tod, aber rausgehen mit bang (letzte Kraft)
+		- > Überleben, aber mit permanenten Folgen
+
+
+- Skelletepatie
+
+#### Sektionen
 - [[Augmentation]]
 - [[Psionik]]
 	- Nicht festgelegte Zauber
 	- Stattdessen Schulen, Spieler können selbst Zauber erfinden und wirken
 	- Schwere je nach Zauber der genutzt wird
-- [[Göttlichkeiten]]
+	- Dice Target = Kosten des Spells?
+	- Conditions für Elements (Dmg, slow, stun, verführen,...)
 - Schiffsspiel
 
-### Modulregeln
+## Modulregeln
 - Ausdauer/Adrenalin Regel: Nach Kampf regenerieren einfach gestrichene Herzen sofort wieder
 	- Deutlich mutigere Kämpfe zu erwarten, kann Geschwindigkeit erhöhen
 	- Eventuell als Kampfstil
 - Prügeleien (Nicht-tödlicher, unbewaffneter Nahkampf)
 
-### Alternativregeln
+#### Alternativregeln
 - Taktischer Kampf
 	- Party-Initiative: Parteien sind gemeinsam dran, können sich absprechen und gleichzeitig handeln
 	- Kämpfe werden verlangsamt und etwas unausgeglichener. Taktiken können besser ausgenutzt werden
