@@ -14,7 +14,7 @@ Falls Spieler keine eigenen Charaktere erstellen wollen, sondern direkt mit eine
 
 
 ## Vorbereitung
-Bevor Spieler ihre Charakter erstellen, sollten sie die [[Grundregeln]] als Gruppe durchgehen. So können zum einen Fragen im Voraus geklärt werden und zum anderen wird der Spielstart erleichtert. Außerdem sollte die Spielgruppe entscheiden, ob sie sich während der Charaktererstellung absprechen möchten oder jeder seinen Charakter im Geheimen kreiert. 
+Bevor Spieler ihre Charakter erstellen, sollten sie die [[Regelwerk/Grundregeln/Grundregeln]] als Gruppe durchgehen. So können zum einen Fragen im Voraus geklärt werden und zum anderen wird der Spielstart erleichtert. Außerdem sollte die Spielgruppe entscheiden, ob sie sich während der Charaktererstellung absprechen möchten oder jeder seinen Charakter im Geheimen kreiert. 
 
 Neben den Grundregeln stehen auch weitere [[Modulregeln]] zur Verfügung. Diese sind nicht notwendig für das Spiel, können aber das Spielerlebnis verfeinern. Die Spielgruppe sollte sich überlegen, ob und welche der Modulregeln sie benutzen wollen und welche nicht. Alle Modulregeln sind so konzipiert, dass sie beliebig während des Spiels ein- und ausgesetzt werden können.
 
