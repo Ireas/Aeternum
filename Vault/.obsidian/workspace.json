@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regelwerk/Grundregeln/Tugend.md",
+                "file": "Regelwerk/Grundregeln/Charaktererstellung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Regelwerk/Grundregeln/Tugend.md",
+                "file": "Regelwerk/Grundregeln/Charaktererstellung.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Templates  ",
@@ -118,7 +118,7 @@
                   "repelStrength": 14.2708333333333,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.02409530271205958,
+                  "scale": 0.0078125,
                   "close": true
                 }
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regelwerk/Grundregeln/Tugend.md",
+                "file": "Regelwerk/Grundregeln/Charaktererstellung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regelwerk/Grundregeln/Tugend.md",
+                "file": "Regelwerk/Grundregeln/Charaktererstellung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +199,9 @@
   },
   "active": "fc476009d0effc1e",
   "lastOpenFiles": [
-    "Regelwerk/Grundregeln/Talentprobe.md",
+    "Regelwerk/Grundregeln/Motivation.md",
     "Regelwerk/Grundregeln/Tugend.md",
+    "Regelwerk/Grundregeln/Talentprobe.md",
     "Zusätze/Contentinformationen.md",
     "Regelwerk/Grundregeln/Passivprobe.md",
     "Zusätze/Danksagung.md",
@@ -224,7 +225,6 @@
     "Regelwerk/Grundregeln/Talent.md",
     "Regelwerk/Modulregeln/Psionik.md",
     "Regelwerk/Grundregeln/Sondereffekte.md",
-    "Regelwerk/Grundregeln/Motivation.md",
     "7.3.pdf",
     "6.5.pdf",
     "6.4.pdf",
