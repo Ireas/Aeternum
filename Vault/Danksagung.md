@@ -16,8 +16,17 @@ Ich danke insbesondere denen, die sich oftmals mit mir zusammengesetzt haben, um
 ## Spieltester
 Danke an meine Freunde, die sich die Zeit genommen haben, Aeternum in einer Spielrunde zu testen und wertvolles Feedback dazu geben konnte. Durch Euch konnte ich die Perspektive der Spieler besser einschätzen und das Spiel besser gestalten.
 
+> Langzeit
 - Aaron
-- Cord
 - Lena
 - Malte
 - Tim
+
+> Kurzzeit
+- Cord
+- Luise
+- Naim
+- Luise
+
+
+((NEUE: Nils, Jason, Julius, Patrick))

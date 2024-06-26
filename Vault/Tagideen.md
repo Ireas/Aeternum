@@ -2,19 +2,6 @@
 
 Tags am Ende ein Bonus?
 
-- Spellduells:
-	- Muss passend sein (Nach offener Interpretation)
-	- Epic battle of two Spells
-	- Wild Magic when perfect counter?
-	- Multiple Players can combine their powers?
-
-- Manasystem
-	- Base-Spells => Become Strong with more Mana invested
-
-- Gruppenmodul, das in der Spielmitte platziert wird
-	- Temperaturskala
-	- Genutzte Regeln
-	- Gemeinsame Seelenverbindung?
 
 - nötige tags
 	- Jung / Erwachsen / Alt

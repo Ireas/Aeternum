@@ -1,16 +1,21 @@
----
-tags: 
----
-> [!example] Navigation 
->  [[Homepage]]
-  
-## Spielregeln
+Als Idennboard convertieren
 
-#### Spieler:
-- Julius
-- Luise
-- Vicky + Freund
-- Nils?
+
+
+- Spellduells:
+	- Muss passend sein (Nach offener Interpretation)
+	- Epic battle of two Spells
+	- Wild Magic when perfect counter?
+	- Multiple Players can combine their powers?
+
+- Manasystem
+	- Base-Spells => Become Strong with more Mana invested
+
+- Gruppenmodul, das in der Spielmitte platziert wird
+	- Temperaturskala
+	- Genutzte Regeln
+	- Gemeinsame Seelenverbindung?
+	- Würfelübersicht
 
 #### Grundregeln
 - Charaktererstellung:
@@ -25,39 +30,25 @@ tags:
 		- Gemeinsames Ziel
 		- Ein wunsch
 		- >Fewind
-- Jeder hat ein Zuhause während der Charaktererestellugn
-	- Verschiedene Varianten
-	- Inklusive Familienstand
-	- Vorteile/Ortschaft
-	- Lagerstätte
-	- Erweiterbar auf Fahrzeuge, Haustiere und anderen Eigentum (Ressource zum Verteilen während der Charaktererstellung?)
+- Spieler sammeln Eigentumspunkte, welche eingesetzt werden können (je nach Heimat) für Eigentum (Zuhause, Fahrzeuge, Smartphone, Personen)
 
 - Kategorien der Berufe ums leichter zu finden?
 - Vergleichsprobe / Gruppenprobe
 - Begleitwesen
 - [[Langzeitreisen]]
 - Waffenklau im Kampf
-- Talentkombinationen
 - Durchbruch bei bestimmten Attributwerten
-- Kampf / Action-System 
-	- In Gefahrensituationen kann Zugreihenfolge wie im Kampf angewendet werden
-	- Siehe BG3 turn-based-mode
 
 - Off-time gamplay (Zwischen sessions Fortschritt machen)
 
 - Kampfregeln
-	- Flankieren
 	- High Ground
 	- Cover
 	- Akimbo
 
 
-- Spielercharaktertod: Kartenziehen
+- Spielercharaktertod: Kartenziehen (Alternativregel)
 	- Kartenzug entscheided, ob Spieler überleben, Hölle, Himmel,...
-	- Spieler entscheidet: 
-		- > Tod, aber rausgehen mit bang (letzte Kraft)
-		- > Überleben, aber mit permanenten Folgen
-
 
 - Skelletepatie
 
@@ -75,31 +66,39 @@ tags:
 - Ausdauer/Adrenalin Regel: Nach Kampf regenerieren einfach gestrichene Herzen sofort wieder
 	- Deutlich mutigere Kämpfe zu erwarten, kann Geschwindigkeit erhöhen
 	- Eventuell als Kampfstil
-- Prügeleien (Nicht-tödlicher, unbewaffneter Nahkampf)
+
 
 #### Alternativregeln
 - Taktischer Kampf
 	- Party-Initiative: Parteien sind gemeinsam dran, können sich absprechen und gleichzeitig handeln
 	- Kämpfe werden verlangsamt und etwas unausgeglichener. Taktiken können besser ausgenutzt werden
+
 - Würfelarmes Spiel (Weniger Würfel)
-	- Insbesondere Talentproben mit 1w6 statt 3w6 bzw. Bonuswürfel anders machen
+	- Bei Talentproben einfach jeden Wurf einzelnt (Bonuswürfel/Maluswürfel ändern=> Einfach+-1 Würfel vielleicht)
 
 
 ## Content
-- Neue Spezies 
 - Interstellare Reise
 	- Problem der Distanzen und nicht-FTL Transporte
 - Zeitreisen
 
 Physische Ordnung:
-	- Ankerpunkte (Galaxien, Stern) -> Gruppen
-		- Weitere Ankerpunkte	
-		- Orte
-			- Wegpunkte
+	- Ankerpunkte (Sternsysteme)	
+		- Planeten/Raumstationen
+			- Regionen
 
 - Darkin
 - Karma (kosmische Energien ausgleichen, 3 Schwestern?)
 - Andere Gottheiten natürlich
+
+
+- Vorteile/Nachteile
+	- Juristik (Verbessert Allgemeinwissen)
+	- Adrenalin (Zu Kampfbegin temporäre Herzen)
+	- Kreditkarte (Kann Bankkonto überziehen)
+	- Glaubwürdig
+
+
 - Sci-Fi Technologien Inspirationen angucken (https://www.google.com/search?q=sci+fi+technology+ideas&oq=sci+fi+technology+ideas&gs_lcrp=EgZjaHJvbWUyEAgAEEUYExgnGDkYgAQYigUyCggBEAAYExgWGB7SAQg2NTA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 - Kristallwasser Wasserstoff-Bombe/Granate
@@ -116,14 +115,9 @@ Physische Ordnung:
 
 - Uranmunition: Uranoxid entzündet beim abfeuern, kann Rüstung beschädiugen
 - Neutronenbombe: Eine radioaktive Bombe, welches Strukturen intakt lässt für Kriegsführung
-- Radioative Recyclinganlage: Große Teilchenbeschnleuniger mit hohen Protonenitensitäten, um radioaktiven Müll zu saokten in kurzlebige Nuklide
+- Radioaktive Recyclinganlage: Große Teilchenbeschnleuniger mit hohen Protonenitensitäten, um radioaktiven Müll zu saokten in kurzlebige Nuklide
 
-- Vorteile/Nachteile
-	- Juristik (Verbessert Allgemeinwissen)
-	- Adrenalin (Zu Kampfbegin temporäre Herzen)
-	- Kreditkarte (Kann Bankkonto überziehen)
-	- Glaubwürdig
-	- Lernfähig
+
 
 - Fraktionen
 	- Sternallianz vs Protektorat
