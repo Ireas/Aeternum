@@ -1,0 +1,100 @@
+Combo: 
+	> Wenn im Kampf innerhalb einer Kampfphase mehrere Angriffe ausgeführt werden, reduziert sich die Verteidigung es Gegners jeweils um -1. 
+	> Angriff muss nicht erfolgreich dafür ein
+	> Nach Kampfphase verfällt Combo.
+	> Fall Verteidigung unter 0 fallen kann, dann sollte es eher eine Erleichterung um +1 für jeden Angriff sein.
+	> Etwas komplizierter, realistisch, teamorientiert.
+
+
+Schnellstart:
+	> Die Kampfpartei, die den Kampf eröffnet, bekommt in 1. Kampfphase +2 statt +1 AP. Somit können sie direkt durchstarten.
+	> Etwas komplizierter, snowballing, schneller
+
+
+Charaktererstellungsbogen:
+	> Spieler können Charaktererstellungsbogen verwenden, um Charaktererstellung zu vereinfachen
+	> Nicht notwendig, optionaler Druck als Vorlage zum Eintragen
+
+
+Person
+	> Texte sollten über Spieler/Spielleiter einheitlich in 3. Person reden
+
+
+- Spellduells:
+	- Muss passend sein (Nach offener Interpretation)
+	- Epic battle of two Spells
+	- Wild Magic when perfect counter?
+	- Multiple Players can combine their powers?
+
+
+- Manasystem
+	- Base-Spells => Become Strong with more Mana invested
+
+
+- Gruppenmodul, das in der Spielmitte platziert wird
+	- Temperaturskala
+	- Genutzte Regeln
+	- Gemeinsame Seelenverbindung?
+	- Würfelübersicht
+
+
+- Charaktererstellung:
+	- Talente ausbessern
+	- Passivfertigkeiten werden Modifer für Proben (Also)
+	- Lektionen sind momentan alle +1 Bonuswürfel (Ändern oder auf Charakterbogen eintragen). Wenn immer, dann gehen auch doppelte Lektionen für 2 Bonuswürfel
+	- Text über Personen statt Charaktere
+	- Hobby etwas weniger Punkte? Oder Preise anpassen pro Talentpunkt?
+	- charaktererstellungsbogen nicht notwendig!
+	- Schicksal: Spieler die ihrem Schicksal folgen sind gestärkt (gibt kraft)
+	- Gruppenseelenbindung => Verbindung aller Spieler, eventueller Bionus,
+		- Gemeinsames Ziel
+		- Ein wunsch
+		- >Fewind
+- Spieler sammeln Eigentumspunkte, welche eingesetzt werden können (je nach Heimat) für Eigentum (Zuhause, Fahrzeuge, Smartphone, Personen)
+
+
+- Kategorien der Berufe ums leichter zu finden?
+- Vergleichsprobe / Gruppenprobe
+- Begleitwesen
+- [[Langzeitreisen]]
+- Waffenklau im Kampf
+- Durchbruch bei bestimmten Attributwerten
+
+
+- Off-time gamplay (Zwischen sessions Fortschritt machen)
+
+
+- Kampfregeln
+	- High Ground
+	- Cover
+	- Akimbo
+
+
+- Spielercharaktertod: Kartenziehen (Alternativregel)
+	- Kartenzug entscheided, ob Spieler überleben, Hölle, Himmel,...
+
+
+- Augmentation
+
+- Psionik
+	- Nicht festgelegte Zauber
+	- Stattdessen Schulen, Spieler können selbst Zauber erfinden und wirken
+	- Schwere je nach Zauber der genutzt wird
+	- Dice Target = Kosten des Spells?
+	- Conditions für Elements (Dmg, slow, stun, verführen,...)
+
+
+- Schiffsspiel
+
+
+- Ausdauer/Adrenalin Regel: Nach Kampf regenerieren einfach gestrichene Herzen sofort wieder
+	- Deutlich mutigere Kämpfe zu erwarten, kann Geschwindigkeit erhöhen
+	- Eventuell als Kampfstil
+
+
+- Taktischer Kampf
+	- Party-Initiative: Parteien sind gemeinsam dran, können sich absprechen und gleichzeitig handeln
+	- Kämpfe werden verlangsamt und etwas unausgeglichener. Taktiken können besser ausgenutzt werden
+
+- Würfelarmes Spiel (Weniger Würfel)
+	- Bei Talentproben einfach jeden Wurf einzelnt (Bonuswürfel/Maluswürfel ändern=> Einfach+-1 Würfel vielleicht)
