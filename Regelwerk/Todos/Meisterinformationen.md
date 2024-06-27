@@ -1,6 +1,3 @@
-> [!example] Navigation 
-> [[Homepage]]
-
 ## Geschichtentypen
 Die Geschichten, welche die Spielgruppe erleben können unterschiedlich lang sein. Je nach Komplexität kann eine Geschichte von einer bis hin zu mehreren Dutzend Spielesession dauern. Die Geschichten werden deshalb in drei Kategorien eingeteilt: Oneshots, Abenteuer und Kampagnen.
 Nachdem eine Geschichte abgeschlossen ist, kann die nächste Geschichte daran anknüpfen. Dabei können Spielercharaktere behalten, neue gewählt oder eigene erstellt werden. 

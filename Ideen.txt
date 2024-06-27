@@ -1,6 +1,5 @@
-Charakterbogen:
-	AP-Leiste:
-	> Leiste erhöhen auf 20, Markierungen mit einfach/zweifach gestrichen
+Ideen als Ideenboard
+
 
 Regelwerk:
 	Combo: 
