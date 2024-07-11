@@ -1,0 +1,283 @@
+<mxfile host="Electron" modified="2024-07-04T20:50:56.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="b4R3Hqv6rUQSt0RFMKIk" version="24.6.4" type="device">
+  <diagram name="Page-1" id="MjzCdtp8GDxRlM3i0NZF">
+    <mxGraphModel dx="4419" dy="-3522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GH4HXwJByiZROu1ke-vD-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="5060" width="390" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-15" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=30;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="7151.200000000001" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-16" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=30;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-85" y="6811.200000000001" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-17" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=30;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="7151.200000000001" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-52" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=90;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70.87" y="7131.26" width="458.12" height="1470.03" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-53" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-32;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="517.49" y="6593.82" width="430" height="1227.43" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-54" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-143;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="-288.99" y="6510" width="460" height="1378.05" as="geometry" />
+        </mxCell>
+        <mxCell id="cSLLkAMYYcsR5AigTN__-8" value="Beschäftigung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="290" y="4120" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pWcKWI6zweaZhQUAbcBb-249" value="Hobby" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-1105" y="4120" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pWcKWI6zweaZhQUAbcBb-250" value="Bildung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-1730" y="4120" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pWcKWI6zweaZhQUAbcBb-252" value="Hintergrund" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-2615" y="4120" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pWcKWI6zweaZhQUAbcBb-260" value="Heimat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-3380" y="4120" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pWcKWI6zweaZhQUAbcBb-410" value="Akuluth (Divinus)&lt;div&gt;&lt;/div&gt;&lt;div&gt;Magier (Arkanum)&lt;div&gt;&lt;/div&gt;&lt;div&gt;Augmentationsträger (Augmenta)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="4860" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-100" value="Koch" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7406.029999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-3" value="Reliktsucher" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7436.029999999999" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-19" value="#Astro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="552.97" y="7641.200000000001" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-20" value="#Ordnung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="-138.96" y="7486.260000000002" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-21" value="#Militär" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="240" y="7151.200000000001" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="7008.6500000000015" width="390" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Junior&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#Erwachsen&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Senior&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#Spirituell&lt;div&gt;#Akademie&lt;/div&gt;&lt;div&gt;#Wissen&lt;/div&gt;&lt;div&gt;#Abtrünnig&lt;/div&gt;&lt;div&gt;#Rang&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;#Divinus&lt;/div&gt;&lt;div&gt;#Arkanum&lt;/div&gt;&lt;div&gt;#Augmenta&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="7048.6500000000015" width="340" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-44" value="!#Ordnung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="735" y="7061.260000000002" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-46" value="!#Astro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="-258.96" y="7046.200000000001" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-50" value="!#Militär" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="217.93000000000018" y="8041.200000000001" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-73" value="Kunstrebell (Junior, Abtrünnig)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7378.649999999998" width="292.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EC7FnCejjiKM2iZam1Gx-73" target="EC7FnCejjiKM2iZam1Gx-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-84" value="Entdecker (Junior)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7466.029999999999" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-85" value="Mentor (Senior)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7496.029999999999" width="232.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9aWNSp8pXr20KisTxj-4" value="Händler" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="7526.030000000001" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-2" value="Metropolis&lt;div&gt;+ #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Ödnis&lt;/div&gt;&lt;div&gt;+ #Abtrünnig&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New Hope&lt;/div&gt;&lt;div&gt;+ #Astro&lt;/div&gt;&lt;div&gt;+ #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Prime&lt;/div&gt;&lt;div&gt;+ #Astro&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Malur&lt;/div&gt;&lt;div&gt;+ #Wissen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rulam&lt;/div&gt;&lt;div&gt;+ #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Edenstamm&lt;/div&gt;&lt;div&gt;+ #Sprituell&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Central&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ &#39;#Wissen&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-3260" y="4290" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-21" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Junior&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#Erwachsen&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Senior&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="1595" y="5100" width="340" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="5060" width="390" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Spirituell&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;#Akademie&lt;/div&gt;&lt;div&gt;#Wissen&lt;/div&gt;&lt;div&gt;#Abtrünnig&lt;/div&gt;&lt;div&gt;#Nobel&lt;/div&gt;&lt;/div&gt;&lt;div&gt;#Militär&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="2035" y="5100" width="340" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="5060" width="390" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-26" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#Divinus&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#Arkanum&lt;/div&gt;&lt;div&gt;#Augmenta&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=2;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="2455" y="5100" width="340" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.25;endAngle=0;rotation=0;textOpacity=30;opacity=30;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="5090" width="1120" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.25;endAngle=0;rotation=-90;textOpacity=30;opacity=30;fillColor=#000099;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5090" width="1120" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.25;endAngle=0;rotation=-180;textOpacity=30;opacity=30;fillColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4270" width="1120" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.25;endAngle=0;rotation=90;textOpacity=30;opacity=30;fillColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="4270" width="1120" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-101" value="Künstler" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="720.0000000000005" y="5390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-102" value="Jäger&lt;div&gt;(Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-358.9599999999998" y="4670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-105" value="Hellseher&amp;nbsp;&lt;div&gt;(Spirituell)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="5150" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-106" value="Agent&lt;div&gt;(Wissen, Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="5" y="5680" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-107" value="Investor&lt;div&gt;(Wissen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-328.96000000000004" y="5390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-109" value="Fahrer&amp;nbsp;&lt;div&gt;(Erwachsen|Senior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="4440" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-111" value="Forscher&lt;div&gt;(Akademie|Wissen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-285.00000000000006" y="5930" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-113" value="Miner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="671.03" y="5790" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-115" value="&lt;div&gt;&lt;div&gt;Admiral&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(Wissen, Militär, Erwachsen|Senior)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="5720" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-116" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kopfgeldjäger&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Militär,Abtrünnig)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="393.97" y="4930.000000000002" width="262.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-118" value="Schmuggler&lt;div&gt;(Abtrünnig)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="5600" width="232.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SncgIBEC0IGQldtbMDlM-122" value="Newcomer&amp;nbsp;&lt;div&gt;(Junior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="235" y="5900" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-7" value="&lt;div&gt;Arzt&lt;/div&gt;&lt;div&gt;(Akademie, Erwachsen|Senior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="5740" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-12" value="Sklavenhändler&lt;div&gt;(Abtrünnig)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="850.0000000000001" y="4630" width="272.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-23" value="Polizist&lt;div&gt;(Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="9.999999999999915" y="5810" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Jurist&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Akademie)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="5810" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-30" value="Druiden&lt;div&gt;(Spirituell)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="431.27" y="4580" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-34" value="Landwirt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="5220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-60" value="Heiler&lt;div&gt;(Wissen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="4430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-61" value="Söldner&lt;div&gt;(Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="671.03" y="4440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-62" value="Saboteur&lt;div&gt;(Abtrünnig, Wissen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="4440" width="225.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-65" value="Sternenflotten-Offizier&lt;div&gt;(Akademie, Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="408.29999999999995" y="5730" width="225.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-67" value="Pirat&amp;nbsp;&lt;div&gt;(Militär, Abrünnig)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="5220" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-76" value="Lehrling&lt;div&gt;(Junior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="4540" width="237.93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-82" value="Pfadfinder&amp;nbsp;&lt;div&gt;(Junior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-285" y="4550.000000000001" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-86" value="Politiker&lt;div&gt;(Senior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-16.029999999999973" y="5940" width="232.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-91" value="Astroarbeiter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="5790" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-92" value="FTL-Ingenieur&lt;div&gt;(Akademie|Wissen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="5840" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-93" value="Navigator&amp;nbsp;&lt;div&gt;(Akademie)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="5730" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-96" value="Astronaut&amp;nbsp;&lt;div&gt;(Erwachsen)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="5730" width="202.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9aWNSp8pXr20KisTxj-1" value="Student&lt;div&gt;(Akademie, Junior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="189.99999999999991" y="5960" width="257.93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9aWNSp8pXr20KisTxj-2" value="Normade" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="5220" width="237.93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9aWNSp8pXr20KisTxj-6" value="Häuptling&amp;nbsp;&lt;div&gt;(Nobel, Erwachsen|Senior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="4910" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9aWNSp8pXr20KisTxj-8" value="Adel&amp;nbsp;&lt;div&gt;(Nobel)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-44.129999999999995" y="6000" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-11" value="#Astro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=3;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="850" y="6160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-18" value="!#Zivilsation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=3;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="850" y="4300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-19" value="!#Astro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=3;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="50" y="4300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-20" value="#Zivilisation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=3;fontSize=36;" parent="1" vertex="1">
+          <mxGeometry x="50" y="6160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-27" value="Koch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="735" y="5240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-28" value="Reliktsucher" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="715" y="5300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-29" value="Kunstrebell&amp;nbsp;&lt;div&gt;(Junior, Abtrünnig)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="117.45999999999998" y="5180" width="292.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-31" value="Entdecker&amp;nbsp;&lt;div&gt;(Junior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="5240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-32" value="Mentor&amp;nbsp;&lt;div&gt;(Senior)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="393.97" y="5310" width="232.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-33" value="Händler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="715" y="5340.000000000002" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-36" value="Soldat&lt;div&gt;(Militär)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="5870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EC7FnCejjiKM2iZam1Gx-95" value="Kampfpilot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="906.03" y="5740" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-55" value="&lt;div&gt;Maintagänderungen&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Stellagration&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; #Zivilisation&amp;nbsp;und !#Astro&lt;/div&gt;&lt;div&gt;+ #Astro&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Entstellagration&lt;div&gt;&amp;gt; #Zivilisation&amp;nbsp;und #Astro&lt;/div&gt;&lt;div&gt;- #Astro&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Auswandern&lt;br&gt;&amp;gt; #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- #&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2740" y="4280" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-56" value="&lt;div&gt;Tagänderungen + Talente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Aristokrat&lt;div&gt;+ #Nobel&lt;/div&gt;&lt;div&gt;+ Talente (Charisma)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Weisenkind&lt;/div&gt;&lt;div&gt;+ #Abtrünnig&lt;/div&gt;+ Talente (Geschick/Intelligenz)&lt;div&gt;&lt;br&gt;&lt;div&gt;Kriegsjunges&lt;/div&gt;&lt;div&gt;&amp;gt; !#&lt;span style=&quot;background-color: initial;&quot;&gt;Zivilisation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ #Militär&lt;/div&gt;&lt;/div&gt;+ Talente (Athletik)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Naturgeist&lt;/div&gt;&lt;div&gt;&amp;gt; !#Zivilisation und !#Astro&lt;/div&gt;&lt;div&gt;+ #Spirituell&lt;/div&gt;&lt;div&gt;+ Talente (Intelligenz)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2480" y="4280" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-59" value="&lt;div&gt;(Attribut | Merkmal) + Talente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Arbeiterfamilie&lt;/div&gt;&lt;div&gt;&amp;gt; #Zivilisation&lt;/div&gt;&lt;div&gt;+ Athletik&lt;/div&gt;&lt;div&gt;+ Talente (Athletik)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Experiment&lt;/div&gt;&lt;div&gt;&amp;gt; !#Zivilisation und #Astro&lt;/div&gt;&lt;div&gt;+ Merkmal&lt;/div&gt;&lt;div&gt;+ Talente (?)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Naturvolk&lt;/div&gt;&lt;div&gt;&amp;gt; !#Zivilisation und !#Astro&lt;/div&gt;&lt;div&gt;+ Merkmal&lt;/div&gt;&lt;div&gt;+ Talente (Athletik/Geschick)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2230" y="4280" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-61" value="&lt;div&gt;Tagänderungen + Talente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Militärschulung&lt;div&gt;+ #Militär&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Talente (Athletik)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Studium&lt;/div&gt;&lt;div&gt;&amp;gt; #Zivilisation&lt;/div&gt;&lt;div&gt;+ #Akademie und #Wissen&lt;/div&gt;&lt;div&gt;+ Talente (Intelligenz)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kloster&lt;/div&gt;&lt;div&gt;&amp;gt; !&lt;span style=&quot;background-color: initial;&quot;&gt;#Zivilisation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Spirituell&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Selbststudium&lt;/div&gt;&lt;div&gt;+ #Wissen&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ Talente&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1750" y="4280" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-62" value="&lt;div&gt;Merkmal + Talente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ausbildung&lt;/div&gt;&lt;div&gt;&amp;gt; #Zivilisation&lt;/div&gt;&lt;div&gt;+ Merkmal&lt;/div&gt;&lt;div&gt;+ Talente (Geschick)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mentor&lt;/div&gt;&lt;div&gt;+ Merkmal&lt;/div&gt;&lt;div&gt;+ Talente&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1500" y="4280" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GH4HXwJByiZROu1ke-vD-63" value="&lt;div&gt;Merkmal + Talente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ausbildung&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="4290" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="iVtR-LONtUWLPHOtsgWI-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Talente für 30 EP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 Maintagänderung&amp;nbsp; ODER&amp;nbsp; +1 Bonustag&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ODER&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ 1 Merkmal&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ODER&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ 1 Attributspunkt&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2640" y="4210" width="500" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

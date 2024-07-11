@@ -1,21 +1,12 @@
-# Klasse A
-- Lena
-
-
-# Klasse B 
+- Lena (Langzeit-Spieltester + Mehrfache Charaktererstellungen + Inspiration + Proofreader + Meisterschirm)
+- Tim (Langzeit-Spieltester + Erste Songs + Proofreader)
 - Aaron (Langzeit-Spieltester + Mehrfache Charaktererstellungen)
 - Malte (Langzeit-Spieltester)
-- Tim (Langzeit-Spieltester + Erster Song)
 
-# Klasse C
-
-
-# Klasse D
 - Cord (Einfacher Oneshot-Spieltester)
 - Luise (Einfacher Oneshot-Spieltester)
 - Naim (Einfacher Oneshot-Spieltester)
 - Luise (Einfacher Oneshot-Spieltester)
-
 
 
 # Neue Spieler

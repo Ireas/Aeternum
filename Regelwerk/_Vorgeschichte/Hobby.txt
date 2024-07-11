@@ -1,0 +1,79 @@
+Besonderes Merkmal
+Talentpunkte: +60 EP = 6(4) Talentpunkte
+=====================================================================
+
+
+====================  ATHLETIK  =====================================
+Bouldern
+> MERKMAL:
+> Klettern++
+
+Tiefseetauchen
+> Schwimmtechnik: +1d6 beim Luftanhalten
+> Schwimmen++
+
+Joggen 
+> Sprinttechniken: +1d6 beim Laufen
+> Sprinten++
+
+Saufen
+> MERKMAL:
+> Zähigkeit++
+
+
+====================  CHARISMA  =====================================
+Tanzen 
+> Standardtänze: +1d6 beim Tanzen
+> Performen++
+
+Musizieren
+> Musiker: +1d6 beim Musizieren
+> Performen++
+
+Tiersitting
+> Tierzahm: +1d6 beim Zähmen von Tieren
+> Tierumgang++
+
+Psychologie
+> MERKMAL:
+> Beruhigen++
+
+Flohmarktverkäufe
+> Auktionär: +1d6 beim Einschätzen von Preisen
+> Handeln++
+
+
+====================  GESCHICK  =====================================
+Yoga
+> Wendig: Der Charakter passt durch winzig kleine Öffnungen
+> Akrobatik++
+
+Kochen
+> Kochkunst: +1d6 beim Kochen
+> Handwerk++
+
+Zeichnen
+> MERKMAL: 
+> Kunst++
+
+Camping
+> Sammler: +1d6 beim Sammeln von Pflanzen in der Natur
+> Wildnisleben++
+
+
+====================  INTELLIGENZ  ==================================
+Beten
+> Götterkunde: Der Charakter kennt alle gängigen Göttlichkeiten und ihr Merkmale
+> Religion++
+
+Escape Rooms
+> Suchprofi: +1d6 beim Suchen von versteckten Gegenständen
+> Untersuchen++
+
+Videospiele
+> Technikaffinität: +1d6 beim Programmieren und Hacken
+> Technik++
+
+Meditieren 
+> Meditation: Wenn 1h meditieren, dann Stress zurücksetzen
+> Willenskraft++

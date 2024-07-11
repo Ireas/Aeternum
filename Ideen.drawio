@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-07-08T19:45:05.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="KJl4AuvrKlKqaiBsZ9HJ" version="24.6.4" type="device">
+  <diagram name="Page-1" id="o6jU_kym_MbPyc09Cl3E">
+    <mxGraphModel dx="4049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-4" value="Heimat: Tags klarer erklären und definieren &amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Tags konkret als Liste vorab einführen&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="470" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-5" value="Oneshot/Story-Einstieg:&lt;div&gt;Autofahrt, Beschreiben mit Musik&lt;/div&gt;&lt;div&gt;Polzeit untersucht Auto am Straßenrand&lt;/div&gt;&lt;div&gt;Beim Überholen explodiert das Auto, Spieler erwischt es&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="200" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-6" value="Passsivmodifikatoren in Talente integrieren (siehe CB) =&amp;gt; Regelwerk aktuallisieren&lt;div&gt;Passivproben anpassen natürlich&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="550" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-7" value="Seitenzahl imRegelwerk sauberer für Einheitlichkeit machen (e.g. gradient style)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="510" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-8" value="CB Kostentabelle visuell abgrenzen für Steigerungen!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="680" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-9" value="CB Vertikal?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="710" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-10" value="Neue Probenidee vion Candella Obscura:&amp;nbsp;&lt;br&gt;Definieren Zielschwierigkeit X&lt;div&gt;Talentzahl ist Y&lt;br&gt;Probe mit Yd6, erreiche X 5 oder höher für Erfolg&lt;br&gt;Qualität ist = Summe der Erfolge&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="500" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-11" value="Taschen komplett rausschmeißen =&amp;gt; Vereinfachen!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="650" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-12" value="Kampf: Krit bei 1/10?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="690" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-13" value="Regelwerk: Sektion &quot;Was tun wenn Spieler X machen&quot;?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="310" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-14" value="Beschäftigung (Nur Anore) -&amp;nbsp; Sirene: Durch Geasng lockt sie Ziele an, verführt sie und tötet sie. Magisch?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1260" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-17" value="Genomodding auf den Archen um Subspezien zu erzeugen. Schnelle Evolution quasi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="130" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-18" value="Subspezies : Albino Bergwergmenschen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1310" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-19" value="Rüsutung aufteilen in Kopf, Brust, Gliedmaßen : Visuell auch eintragen. Rüstung hat Kombinatio aus Buchstaben K T G für Bereiche" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="740" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-20" value="Mehr fantasy Jobs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1370" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eH1mNW5N2hcSeoC4jR5Z-24" value="CYBERSPACE? Leben nach dem Tod / Virtuelle Realität neben richtiger Realität" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="190" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="in7xB4lLwvSZ2x9KrmVv-1" value="&quot;If we cant stand on the shoulders of giants, we become the giants ourself&quot; -Quote YT Video inspiration sci-fi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="800" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="in7xB4lLwvSZ2x9KrmVv-2" value="Moral (Gegner fliehen nach X)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="640" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-1" value="Übersicht mit Erfolgswerten für (leichte, mittelschwere, schwere) proben" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="740" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-2" value="RW: Prägsame Erlebnisse =&amp;gt; Prägung / Schlüsselmoment / Schlüsselerlebnis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="980" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-3" value="Longtime storage must be physical to preserve (metal stamps)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="270" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-4" value="Supraleiter als wichtige Technologien vor Archen&lt;div&gt;Dark Energy&lt;/div&gt;&lt;div&gt;Exotische Materialien wie&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Hyperium&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="310" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-5" value="Story auf New Hope&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TIM kriegt Drohung von X (Abkürzung). Subtil nur für Micheal wegen Schulden =&amp;gt; BOSS als Schicksal?&lt;/div&gt;&lt;div&gt;ZWEI/DREI melden sich bei VIER . Sie sprechen von ihrem Meister &quot;X&quot;, der sie Heimsucht&amp;nbsp;&lt;br&gt;PHENIX kriegt von seinem Offizier Infos, dass X &quot;Codename Chef&quot; gesichtet wurde. Vorher war undercover =&amp;gt; RANGAUFSTIEG als Schicksal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Offizier - Doppelganger Gefahr&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-910" y="1590" width="1140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ruD_59ehMZ1elViESAV-7" value="Flyer für Besucher erstellen&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aufgaben:&lt;/div&gt;&lt;div&gt;- Kiste aus Zoll holen wegen Schwermetallkisten (nicht angemeldet, aber Harmlos) TRANSAKTIOn&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1870" y="1590" width="1040" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_4t6g2xNyalA2J76dJ2F-1" value="2 Tugenden + 2 Laster tausche gegen 1 Tugend + 1 Laster + 1 Ideal/Prinzip?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="600" width="540" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
