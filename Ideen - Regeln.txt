@@ -26,7 +26,6 @@ Person
 	- Wild Magic when perfect counter?
 	- Multiple Players can combine their powers?
 
-
 - Manasystem
 	- Base-Spells => Become Strong with more Mana invested
 
